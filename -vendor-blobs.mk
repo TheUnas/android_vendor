@@ -64,11 +64,11 @@ PRODUCT_COPY_FILES += \
     vendor///proprietary/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so:system/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so \
     vendor///proprietary/vendor/lib/rfsa/adsp/libscveT2T_skel.so:system/vendor/lib/rfsa/adsp/libscveT2T_skel.so \
     vendor///proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
-	vendor///proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
-	vendor///proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
-	vendor///proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
-	vendor///proprietary/vendor/lib/libAKM8963.so:system/vendor/lib/libAKM8963.so \
-	vendor///proprietary/etc/firmware/audience-es325-fw.bin:system/etc/firmware/audience-es325-fw.bin
+    vendor///proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
+    vendor///proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
+    vendor///proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
+    vendor///proprietary/vendor/lib/libAKM8963.so:system/vendor/lib/libAKM8963.so \
+    vendor///proprietary/etc/firmware/audience-es325-fw.bin:system/etc/firmware/audience-es325-fw.bin
 
 PRODUCT_COPY_FILES += \
     vendor///proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
